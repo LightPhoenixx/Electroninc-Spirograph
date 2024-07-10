@@ -1,1 +1,2 @@
-This repo contains the whole file of components that i used in my mechanical project in which me and my team make a electronic spirograph
+# Electronic Spirograph
+Mechanical course project where I learnt many different mechanical techniques to make an electronic spirograph
